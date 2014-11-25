@@ -76,3 +76,5 @@ C:\Users\Hemantha\Documents\Visual Studio 2012\Projects\ng-app\ng-app\bin\zh-Han
 C:\Users\Hemantha\Documents\Visual Studio 2012\Projects\ng-app\ng-app\bin\zh-Hant\System.Spatial.resources.dll
 C:\Users\Hemantha\Documents\Visual Studio 2012\Projects\ng-app\ng-app\obj\Release\ng-app.dll
 C:\Users\Hemantha\Documents\Visual Studio 2012\Projects\ng-app\ng-app\obj\Release\ng-app.pdb
+C:\Users\Hemantha\Documents\Visual Studio 2012\Projects\ng-app\ng-app\bin\System.Web.Http.WebHost.dll
+C:\Users\Hemantha\Documents\Visual Studio 2012\Projects\ng-app\ng-app\bin\System.Web.Http.WebHost.xml

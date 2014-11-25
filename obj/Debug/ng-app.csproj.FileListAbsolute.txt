@@ -77,3 +77,5 @@ c:\users\hemantha\documents\visual studio 2012\Projects\ng-app\ng-app\bin\zh-Han
 c:\users\hemantha\documents\visual studio 2012\Projects\ng-app\ng-app\obj\Debug\ng-app.dll
 c:\users\hemantha\documents\visual studio 2012\Projects\ng-app\ng-app\obj\Debug\ng-app.pdb
 C:\Users\Hemantha\Documents\Visual Studio 2012\Projects\ng-app\ng-app\obj\Debug\ng-app.csprojResolveAssemblyReference.cache
+C:\Users\Hemantha\Documents\Visual Studio 2012\Projects\ng-app\ng-app\bin\System.Web.Http.WebHost.dll
+C:\Users\Hemantha\Documents\Visual Studio 2012\Projects\ng-app\ng-app\bin\System.Web.Http.WebHost.xml

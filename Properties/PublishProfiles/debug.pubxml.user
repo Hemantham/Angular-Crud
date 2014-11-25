@@ -106,7 +106,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/18/2014 15:01:57</publishTime>
     </File>
     <File Include="bin/ng-app.dll">
-      <publishTime>11/25/2014 17:30:42</publishTime>
+      <publishTime>11/25/2014 17:34:58</publishTime>
     </File>
     <File Include="bin/ru/Microsoft.Data.Edm.resources.dll">
       <publishTime>11/18/2014 15:02:15</publishTime>
